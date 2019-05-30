@@ -9,4 +9,4 @@
 ## 專案介紹：<br/>
 * 數位模型【整體建物3D】>>https://skfb.ly/6KQvW<br/>
 * 數位模型【木柱露出3D】>>https://skfb.ly/6KQwq<br/>
-* 數位模型【鋼構平台3D】>https://skfb.ly/6KQw9<br/>
+* 數位模型【鋼構平台3D】>>https://skfb.ly/6KQw9<br/>
