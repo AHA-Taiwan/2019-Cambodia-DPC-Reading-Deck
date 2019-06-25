@@ -23,6 +23,13 @@
 <br/>
 <br/>
 ![](https://github.com/AHA-Taiwan/TEST-Fushan-Taitung-2013/blob/master/005.%20Training%20Methods/Handbook.gif "handbook.gif")
+整體工序GIF製作中<br/>
+第1圖 鐵主柱<br/>
+第2圖+鐵主柱+鐵主樑<br/>
+第3圖+鐵主柱+鐵主樑+鐵小樑<br/>
+第4圖+鐵主柱+鐵主樑+鐵小樑+木地板<br/>
+第5圖+鐵主柱+鐵主樑+鐵小樑+木地板+木扶手<br/>
+第6圖+鐵主柱+鐵主樑+鐵小樑+木地板+木扶手+木書櫃<br/>
 <br/>
 <br/>
 ***
