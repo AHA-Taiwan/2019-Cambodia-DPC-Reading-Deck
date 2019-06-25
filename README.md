@@ -28,13 +28,16 @@
 <br/>
 ***
 ## 如何達成合作建造：<br/>
-* 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
+* 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
+https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
 ***
 ## 確保工作安全：<br/>
-* 請參閱［合作建造-安全規範 Collab-Const-Safety］：https://github.com/AHA-Taiwan/Collab-Const-Safety/wiki <br/>
+* 請參閱［合作建造-安全規範 Collab-Const-Safety］：<br/>
+https://github.com/AHA-Taiwan/Collab-Const-Safety/wiki <br/>
 ***
 ## 探索合作資源：<br/>
-* 請參閱［合作建造-資源探索 Collab-Const-Source］：https://github.com/AHA-Taiwan/Collab-Const-Source/wiki <br/>
+* 請參閱［合作建造-資源探索 Collab-Const-Source］：<br/>
+https://github.com/AHA-Taiwan/Collab-Const-Source/wiki <br/>
 ***
 ## 施工培訓教材：<br/>
 * 長期課程 Long-term Courses<br/>
