@@ -29,7 +29,7 @@
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
-https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
+https://github.com/AHA-Taiwan/Collab-Const-Quick-Guide/wiki <br/>
 ***
 ## 確保工作安全：<br/>
 * 請參閱［合作建造-安全規範 Collab-Const-Safety］：<br/>
