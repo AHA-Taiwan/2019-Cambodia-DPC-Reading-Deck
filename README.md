@@ -39,20 +39,11 @@ https://github.com/AHA-Taiwan/Collab-Const-Safety/wiki <br/>
 * 請參閱［合作建造-資源探索 Collab-Const-Source］：<br/>
 https://github.com/AHA-Taiwan/Collab-Const-Source/wiki <br/>
 ***
-## 施工培訓教材：<br/>
-* 長期課程 Long-term Courses<br/>
-   * 多種木工輔助教學：https://www.youtube.com/watch?v=pnGrmdY-lMs <br/>
-   * 修邊及修邊機教學：https://www.youtube.com/watch?v=o2khT5w8vWg <br/>
-   * 直角導板製作教學：https://www.youtube.com/watch?v=HI0hIO2WtlA <br/>
-* 短期訓練 Short-term Training<br/>
-   * 21堂木工短講：https://reurl.cc/gpd5N <br/>
-   * 09堂基礎示範：https://reurl.cc/LLEGL <br/>
-* 現場教學 Handbook<br/>
-   * 現場施工手冊：https://reurl.cc/WMnmy <br/>
-***
-
-## 工具租借：<br/>
-AHA 工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
+## 取得建造知識：<br/>
+* 關於一般的常用構造技術（Techniques），請參閱［合作建造-學習知識 Collab-Const-Learning］：<br/>
+https://github.com/AHA-Taiwan/Collab-Const-Learning/wiki <br/>
+* 關於本案的特殊構築技術（Tectonic）， 請參閱［本案資料夾 002. Handbook］：<br/>
+https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/tree/master/002.%20Handbooki <br/>
 ***
 
 > #### 歡迎參與專案開發，Branch合併可向專案管理者提出請求
