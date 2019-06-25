@@ -12,12 +12,12 @@
 ***
 ## 專案介紹：<br/>
 * 主要建材：方鐵管[7.5x7.5x600cm(厚1.5mm)]、扁鐵管[4x8x600cm(厚1.5mm)]、原木板[2x25x400cm]、柬埔寨紅磚[8x8x17.5cm]等。
-* 初勘紀錄：(影像)https://reurl.cc/dkb1D
-* 設計概述：(影像)https://reurl.cc/yNbDE
+* 初勘簡介[影像紀錄]：https://reurl.cc/dkb1D
+* 設計概述[影像紀錄]：https://reurl.cc/yNbDE
 * 臉書紀錄：https://www.facebook.com/nctuasean/ 
-* 數位模型【整體建物3D】>>https://skfb.ly/6KQvW<br/>
-* 數位模型【木柱露出3D】>>https://skfb.ly/6KQwq<br/>
-* 數位模型【鋼構平台3D】>>https://skfb.ly/6KQw9<br/>
+* 數位模型[整體建物3D]：https://skfb.ly/6KQvW<br/>
+* 數位模型[木柱露出3D]：https://skfb.ly/6KQwq<br/>
+* 數位模型[鋼構平台3D]：https://skfb.ly/6KQw9<br/>
 
 
 ![](https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/blob/master/001.%20Blueprint/README%20IMAGE/DPC%20sketchfab.PNG "3D Model")
