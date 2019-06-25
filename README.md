@@ -1,10 +1,14 @@
-# 2019-Cambodia
->Humanitarian Architecture in ambodia<br/>
->以人道建築宗旨出發，與在地使用者合作發展設計，以自然材料、就地取材原則，透過群眾建造之自然空間。一個可容納約30名師生使用之木鐵混構閱讀平台，兼具活動功能，設計平台錯落配置離地抬高20至200公分。<br/>
+# 2019-Cambodia-DPC-Reading-Deck 柬埔寨室內教室設計
+>Humanitarian Architecture in Cambodia<br/>
+>以人道建築宗旨出發，由台灣交通大學服務學習中心、全球公民教育中心發起，與柬埔寨DPC小學、家扶中心合作規劃。使用自然材料、就地取材為原則，由交大建築所策劃義築設計、大安高工進行實作測試與志工培訓，設計規劃一個可容納約30名師生使用，離地抬高20至200公分並錯落配置的木鐵混構閱讀平台，亦兼具活動功能。<br/>
 
 ## 基地環境：<br/>
-熱帶氣候。<br/>
-* Google Map 位置：https://goo.gl/maps/Xri239yRok2xkyNN6 <br/>
+位於柬泰邊境聚落，木材完全使用未加工之原木，設計時宜需注意材料含濕變形，以及後續防潮防蝕保護等。<br/>
+* 基地環境氣象資料：http://worldweather.wmo.int/tc/home.html <br/>
+* 氣象觀測歷史紀錄：http://worldweather.wmo.int/tc/city.html?cityId=347 <br/>
+* Google Map 位置：https://goo.gl/maps/Xri239yRok2xkyNN6  <br/>
+
+![](https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/blob/master/001.%20Blueprint/README%20IMAGE/DPC%20Gmap.png "Google Map")
 ***
 ## 專案介紹：<br/>
 * 數位模型【整體建物3D】>>https://skfb.ly/6KQvW<br/>
