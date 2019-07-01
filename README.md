@@ -18,7 +18,8 @@
 * 數位模型［整體建物3D］：https://skfb.ly/6KQvW<br/>
 * 數位模型［木柱露出3D］：https://skfb.ly/6KQwq<br/>
 * 數位模型［鋼構平台3D］：https://skfb.ly/6KQw9<br/>
-* 數位模型［定案完整3D］：https://skfb.ly/6LGSy<br/>
+* 數位模型［主梁未轉3D］：https://skfb.ly/6LGSy<br/>
+* 數位模型［最終定案3D］：https://skfb.ly/6LHYw<br/>
 
 ![](https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/blob/master/001.%20Blueprint/README%20IMAGE/DPC%20sketchfab.PNG "3D Model")
 <br/>
